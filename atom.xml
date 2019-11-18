@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://harlin97.github.io</id>
-    <title>Gridea</title>
-    <updated>2019-11-18T05:18:27.449Z</updated>
+    <title>Halin&apos;Notes</title>
+    <updated>2019-11-18T05:23:44.456Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://harlin97.github.io"/>
     <link rel="self" href="https://harlin97.github.io/atom.xml"/>
     <subtitle>温故而知新</subtitle>
     <logo>https://harlin97.github.io/images/avatar.png</logo>
     <icon>https://harlin97.github.io/favicon.ico</icon>
-    <rights>All rights reserved 2019, Gridea</rights>
+    <rights>All rights reserved 2019, Halin&apos;Notes</rights>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
         <id>https://harlin97.github.io/post/hello-gridea</id>
