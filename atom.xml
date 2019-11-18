@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://harlin97.github.io</id>
     <title>Halin&apos;Notes</title>
-    <updated>2019-11-18T05:59:49.573Z</updated>
+    <updated>2019-11-18T07:52:35.331Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://harlin97.github.io"/>
     <link rel="self" href="https://harlin97.github.io/atom.xml"/>
@@ -10,4 +10,51 @@
     <logo>https://harlin97.github.io/images/avatar.png</logo>
     <icon>https://harlin97.github.io/favicon.ico</icon>
     <rights>All rights reserved 2019, Halin&apos;Notes</rights>
+    <entry>
+        <title type="html"><![CDATA[微服务]]></title>
+        <id>https://harlin97.github.io/post/wei-fu-wu</id>
+        <link href="https://harlin97.github.io/post/wei-fu-wu">
+        </link>
+        <updated>2019-11-18T07:49:26.000Z</updated>
+        <content type="html"><![CDATA[<h2 id="微服务的定义">微服务的定义</h2>
+<ul>
+<li>每个微服务可以独立运行在自己的进程里</li>
+<li>独立运行的微服务共同构建整个系统</li>
+<li>每个微服务为独立的业务开发，一个微服务只关注某个特定的功能</li>
+</ul>
+<h2 id="微服务的特性">微服务的特性</h2>
+<ul>
+<li>可以使用不同的语言和数据存储技术</li>
+<li>微服务之间通过轻量的通信机制进行通信，例如REST API 进行调用</li>
+<li>全自动的部署机制（基石）</li>
+</ul>
+<h2 id="微服务全景架构图">微服务全景架构图</h2>
+<figure data-type="image" tabindex="1"><img src="https://harlin97.github.io/post-images/1574063473118.jpg" alt=""></figure>
+<h2 id="微服务的优点">微服务的优点</h2>
+<ul>
+<li>单个服务更加容易开发、维护</li>
+<li>单个微服务启动快</li>
+<li>局部修改容易部署</li>
+<li>技术栈不受限（架构升级替换成本小）</li>
+<li>按需伸缩（根据微服务升级所需配置）</li>
+</ul>
+<h2 id="微服务的缺点">微服务的缺点</h2>
+<ul>
+<li>运维要求高（需要全自动部署）</li>
+<li>分布式固有的复杂性</li>
+<li>重复劳动（可使用maven在java下共用工具类）</li>
+</ul>
+<h2 id="微服务的适用场景">微服务的适用场景</h2>
+<ul>
+<li>大型、复杂的项目</li>
+<li>有快速迭代的需求</li>
+<li>访问压力大</li>
+</ul>
+<h2 id="不适用微服务的场景">不适用微服务的场景</h2>
+<ul>
+<li>业务稳定</li>
+<li>迭代周期长</li>
+</ul>
+]]></content>
+    </entry>
 </feed>
